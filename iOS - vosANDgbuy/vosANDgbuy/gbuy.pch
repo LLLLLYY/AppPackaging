@@ -1,0 +1,22 @@
+//
+//  gbuy.pch
+//  vosANDgbuy
+//
+//  Created by apple on 2017/9/22.
+//  Copyright © 2017年 LY. All rights reserved.
+//
+
+#ifndef gbuy_pch
+#define gbuy_pch
+
+
+/**************************高度宽度****************************/
+#define kWindowWidth [UIScreen mainScreen].bounds.size.width
+#define kWindowHeigth [UIScreen mainScreen].bounds.size.height
+
+
+#import "UIView+Frame.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* gbuy_pch */
